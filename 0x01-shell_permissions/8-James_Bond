@@ -1,2 +1,4 @@
 #!/bit/bash
 chmod 007 hello
+chmod 007 hello
+#!/bin/bash
